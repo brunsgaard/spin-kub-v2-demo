@@ -4,7 +4,6 @@ metadata:
   name: spinnaker-demo-config
   namespace: default
 data:
-  NEiIW_FEATURE: "true"
   NIIEW_FEATURE: "true"
 
 ---
